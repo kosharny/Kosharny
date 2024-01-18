@@ -23,3 +23,13 @@
 )](https://t.me/kosharny)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=097CDB
 )](https://www.facebook.com/maksim.kosharnyjj)
+
+### My apps
+[![SwiftUI](https://img.shields.io/badge/-Perfect_English-090909?style=for-the-badge&logo=swift&logoColor=097CDB
+)](https://github.com/kosharny/Perfect-English)
+
+[![SwiftUI](https://img.shields.io/badge/-Healthy_Life-090909?style=for-the-badge&logo=swift&logoColor=097CDB
+)](https://github.com/kosharny/HealthyLife)
+
+[![SwiftUI](https://img.shields.io/badge/-Hookah_Mixes-090909?style=for-the-badge&logo=swift&logoColor=097CDB
+)](https://github.com/kosharny/Hookah-Mixes)
